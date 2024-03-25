@@ -1,1 +1,1 @@
-<img scr = "https://avatars.githubusercontent.com/u/91085485?v=4">  ## Hola, mi nombre es Diego Pastén 👋
+ ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png)   ## Hola, mi nombre es Diego Pastén 👋
