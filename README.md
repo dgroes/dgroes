@@ -13,6 +13,6 @@ Busco formar parte de una organización que me permita continuar desarrollando m
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
 
 ## Contacto:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego_Pastén-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/diegopastenuribe)
 <br>
 [![Email](https://img.shields.io/badge/diegopasten78@gmail.com-email_personal-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegopasten78@gmail.com)
