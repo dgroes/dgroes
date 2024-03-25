@@ -7,7 +7,7 @@ Busco formar parte de una organización que me permita continuar desarrollando m
 
 ## Tecnologías:
 [![Php](https://img.shields.io/badge/Php-0095D5?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=101010)]()
+[![Laravel](https://img.shields.io/badge/Laravel-3DDC84?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
 </br>
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
