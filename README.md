@@ -6,9 +6,10 @@ Busco formar parte de una organización que me permita continuar desarrollando m
 
 
 ## Tecnologías:
-[![HTML](https://img.shields.io/badge/Html-f16c32?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/Css-37b1df?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)]()
-[![Php](https://img.shields.io/badge/Php-7a86b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
-[![Laravel](https://img.shields.io/badge/Laravel-f6372e?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/Html-f16c32?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)](https://www.w3.org/html/)
+[![CSS](https://img.shields.io/badge/Css-37b1df?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)](https://www.w3.org/Style/CSS/)
+[![Php](https://img.shields.io/badge/Php-7a86b8?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/Laravel-f6372e?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)](https://laravel.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)](https://www.mysql.com/)
+
 </br>
