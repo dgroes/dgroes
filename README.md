@@ -4,6 +4,20 @@
 <p>Titulado y egresado de la carrera de Ingeniería en Informática el año 2022, poseo conocimientos en programación orientada a objetos y de gestión y planificación de proyectos tecnológicos, además poseo experiencia como QA Funcional.
 Busco formar parte de una organización que me permita continuar desarrollando mis conocimientos, como también mejorar mi calidad profesional y personal.</p>
 
+# Acerca de mí
+
+Me apasiona la tecnología y disfruto explorar y utilizar diversas herramientas para brindar soluciones o simplemente aprender por diversión. Me siento especialmente atraído por el área de desarrollo de software y control de calidad (QA), donde puedo aplicar mis habilidades y conocimientos para crear productos de calidad y mejorar continuamente los procesos.
+
+## Intereses
+
+- Desarrollo de software
+- Control de calidad (QA)
+- Exploración de nuevas tecnologías
+- Resolución de problemas
+- Aprendizaje continuo
+
+¡No dudes en contactarme si compartes alguno de estos intereses o si quieres discutir cualquier tema relacionado!
+
 
 ## Tecnologías:
 [![HTML](https://img.shields.io/badge/Html-f16c32?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)](https://www.w3.org/html/)
