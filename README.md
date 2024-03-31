@@ -1,12 +1,12 @@
 # <img src="https://raw.githubusercontent.com/dgroes/dgroes/main/head.png" alt="Diego Pastén" width="100"/> Hola, mi nombre es Diego Pastén 👋
-# Sobre mí
+# Sobre mí 💼👨‍💻
 ¡Hola! Soy Diego Pastén, un Ingeniero en Informática graduado en el año 2022. Mi formación académica y experiencia laboral me han proporcionado sólidos conocimientos en programación orientada a objetos, así como en gestión y planificación de proyectos tecnológicos. Además, he adquirido experiencia como QA Funcional, lo que me ha permitido comprender la importancia de la calidad en el desarrollo de software.
 
-## Experiencia y Objetivos
+## Experiencia y Objetivos 🎯✨
 
 Durante mi carrera profesional, he tenido la oportunidad de enfrentar diversos desafíos y aprender de ellos. Ahora, estoy buscando unirme a una organización dinámica que valore el crecimiento profesional y personal de sus empleados. Mi objetivo es seguir desarrollando mis habilidades técnicas y contribuir al éxito de proyectos innovadores.
 
-## Habilidades destacadas
+## Habilidades destacadas 🔧💡🚀
 
 - Programación orientada a objetos (OO)
 - Gestión y planificación de proyectos tecnológicos
