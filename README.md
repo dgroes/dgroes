@@ -1,22 +1,21 @@
 # <img src="https://raw.githubusercontent.com/dgroes/dgroes/main/head.png" alt="Diego Pastén" width="100"/> Hola, mi nombre es Diego Pastén 👋
-<h3>Ingeniero en Informática</h3>
+# Sobre mí
+¡Hola! Soy Diego Pastén, un Ingeniero en Informática graduado en el año 2022. Mi formación académica y experiencia laboral me han proporcionado sólidos conocimientos en programación orientada a objetos, así como en gestión y planificación de proyectos tecnológicos. Además, he adquirido experiencia como QA Funcional, lo que me ha permitido comprender la importancia de la calidad en el desarrollo de software.
 
-<p>Titulado y egresado de la carrera de Ingeniería en Informática el año 2022, poseo conocimientos en programación orientada a objetos y de gestión y planificación de proyectos tecnológicos, además poseo experiencia como QA Funcional.
-Busco formar parte de una organización que me permita continuar desarrollando mis conocimientos, como también mejorar mi calidad profesional y personal.</p>
+## Experiencia y Objetivos
 
-# Acerca de mí
+Durante mi carrera profesional, he tenido la oportunidad de enfrentar diversos desafíos y aprender de ellos. Ahora, estoy buscando unirme a una organización dinámica que valore el crecimiento profesional y personal de sus empleados. Mi objetivo es seguir desarrollando mis habilidades técnicas y contribuir al éxito de proyectos innovadores.
 
-Me apasiona la tecnología y disfruto explorar y utilizar diversas herramientas para brindar soluciones o simplemente aprender por diversión. Me siento especialmente atraído por el área de desarrollo de software y control de calidad (QA), donde puedo aplicar mis habilidades y conocimientos para crear productos de calidad y mejorar continuamente los procesos.
+## Habilidades destacadas
 
-## Intereses
-
-- Desarrollo de software
-- Control de calidad (QA)
-- Exploración de nuevas tecnologías
+- Programación orientada a objetos (OO)
+- Gestión y planificación de proyectos tecnológicos
+- Control de calidad funcional (QA)
+- Trabajo en equipo y colaboración
 - Resolución de problemas
-- Aprendizaje continuo
 
-¡No dudes en contactarme si compartes alguno de estos intereses o si quieres discutir cualquier tema relacionado!
+¡Estoy emocionado por las oportunidades futuras y estoy abierto a nuevas posibilidades en el campo de la tecnología! No dudes en contactarme si crees que puedo ser un buen ajuste para tu equipo o si quieres conocer más sobre mi experiencia.
+
 
 
 ## Tecnologías:
